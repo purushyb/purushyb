@@ -3,7 +3,17 @@
 ## 👋 About Me  
 💼 **Fintech by day ☀️**  
 💻 **Cross-platform & Open-Source by night 🌙**    
-🤝 Always open to collaboration on **open-source cross-platform projects**.  
+🤝 Always open to collaboration on **open-source cross-platform projects**.
+
+## 🌐 Creating KarnaForge
+🔥 **Forging KarnaForge** — An open-source community  
+
+<p align="center">
+  <a href="https://karnaforge.dev" target="_blank">
+    <img src="https://img.shields.io/badge/🌍%20KarnaForge-Visit%20Community-orange?style=for-the-badge&logo=github&logoColor=white" alt="Visit KarnaForge"/>
+  </a>
+</p>
+
 
 ---
 
